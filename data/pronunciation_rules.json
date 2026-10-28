@@ -1,0 +1,32 @@
+{
+  "en": {
+    "API": "A P I",
+    "SaaS": "Sass",
+    "GUI": "Gooey",
+    "SQL": "Sequel",
+    "AI": "Ay-Eye",
+    "GPT": "Gee Pee Tee",
+    "Gpt": "Gee Pee Tee",
+    "PPTX": "P P T X",
+    "Teams": "Teems",
+    "B2B": "B to B",
+    "365": "three hundred sixty five",
+    "Sefe": "Sefe",
+    "SEFE": "Sefe",
+    "sefe": "Sefe"
+  },
+  "de": {
+    "API": "A P I",
+    "AI": "Ay-Eye",
+    "GPT": "Gee Pee Tee",
+    "Gpt": "Gee Pee Tee",
+    "KI": "K I",
+    "SaaS": "Sass",
+    "B2B": "B to B",
+    "Teams": "Teems",
+    "PowerPoint": "Pauer Point",
+    "Sefe": "Sefe",
+    "SEFE": "Sefe",
+    "sefe": "Sefe"
+  }
+}

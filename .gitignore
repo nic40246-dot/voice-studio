@@ -1,0 +1,44 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual Environments
+.venv/
+venv/
+ENV/
+env/
+
+# Personal Voice Profiles & Audio Data (Kept strictly private)
+data/profiles/*
+!data/profiles/.gitkeep
+!data/profiles/profiles.json.example
+
+data/backups/
+data/audio_cache/
+data/thumbnails/
+data/exports/
+data/finetune_dataset/
+data/finetune_cache/
+
+# Large Model Weights & Checkpoints (Download or fine-tune locally)
+data/models/*.safetensors
+data/models/lora_checkpoint/
+*.pt
+
+# Local Samples & Presentation Media
+new_samsung_headset.wav
+Samples/
+Slides/
+*.pptx
+*.wav
+*.mp3
+*.m4a
+
+# Environment variables & API keys
+.env
+.env.local

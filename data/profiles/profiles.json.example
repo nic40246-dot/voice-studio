@@ -1,0 +1,10 @@
+[
+  {
+    "id": "example_voice_01",
+    "name": "My Custom Voice",
+    "description": "Clear studio recording with 10-15s clean speech sample",
+    "created_at": "2026-10-24T00:00:00Z",
+    "reference_audio": "data/profiles/example_voice_01/reference_optimal.wav",
+    "tags": ["narrator", "presentation"]
+  }
+]
